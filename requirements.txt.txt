@@ -1,0 +1,11 @@
+numpy
+pandas
+opencv-python
+tensorflow
+torch
+scikit-learn
+matplotlib
+seaborn
+flask
+requests
+
